@@ -31,8 +31,6 @@ namespace KampIntro
                 Console.WriteLine("Değişmedi çizgisi");
             }
 
-
-
             Console.WriteLine(kategoriEtiketi);
 
         }
